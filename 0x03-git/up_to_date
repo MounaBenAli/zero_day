@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git fetch 
+=======
+git pull upstream master
+>>>>>>> 8a8f897501907bd2e149bc79bd6e2d9b2519e84f
